@@ -1,0 +1,1 @@
+C:\Users\Cameron\Desktop\connectthedots-master(1)\connectthedots-master\Devices\Gateways\GatewayService\Tests\CoreTest\bin\Debug\CoreTest.exe.config
